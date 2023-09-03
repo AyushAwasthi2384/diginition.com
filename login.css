@@ -1,0 +1,42 @@
+@import url('https://db.onlinewebfonts.com/c/b246a75c514106a30dc05118269602ca?family=Albra+Display+Bold-Traced-Web');
+
+body{
+    height: 100vh;
+    background: url("./assets/bg/main-bg.png");
+    background-size: cover;
+    backdrop-filter: blur(10px);
+}
+.login-sec2{
+    background-color: rgba(0, 0, 0, 0.556);
+    height: 100vh;
+    width: 70vw;
+}
+.login-sec1, .login-sec2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-sec1 h1{
+    font-family: "Albra Display Bold-Traced-Web";
+    color: white;
+    font-size: 4rem;
+    margin: 0;
+    padding: 0;
+    transform: rotate(-90deg);
+}
+
+.form{
+    width: 37vw;
+}
+.form-div{
+    padding: 30px 50px;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.501);
+    box-shadow: 0px 0px 50px 0px white;
+}
+
+.form-btns{
+    display: flex;
+    margin-top: 1rem;
+}

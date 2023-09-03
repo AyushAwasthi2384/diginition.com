@@ -1,0 +1,19 @@
+.contact-us-head p{
+    font-size: 5rem;
+    color: white;
+    font-weight: 900;
+    color: #00ffff;
+    transition-duration: 0.3s;
+}
+
+.contact-us-head p:hover{
+    letter-spacing: 7px;
+}
+
+.cu-content{
+    color: white;
+    text-align: center;
+    width: 70vw;
+    margin-top: 3rem;
+    transition-duration: 0.3s;
+}

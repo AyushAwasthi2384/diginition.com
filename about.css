@@ -1,0 +1,24 @@
+.au-content{
+    color: white;
+    text-align: center;
+    width: 70vw;
+    margin-top: 3rem;
+    transition-duration: 0.3s;
+}
+.au-content:hover{
+    letter-spacing: 2px;
+    width: 84vw;
+    color: #00ffff;
+}
+
+.about-us-head p{
+    font-size: 5rem;
+    color: white;
+    font-weight: 900;
+    color: #00ffff;
+    transition-duration: 0.3s;
+}
+
+.about-us-head p:hover{
+    letter-spacing: 7px;
+}
